@@ -2,7 +2,7 @@
 
 ### Hi there 👋, My name is Oleg
 #### I'm a beginner QA Engineer
-![I'm a beginner QA Engineer](https://camo.githubusercontent.com/29137a622c86b65c2dfc11a07295c56779eb13acb781e0ccfe00c7144b7d6173/68747470733a2f2f76696e63656e742d79616f32372e6769746875622e696f2f70682d69636f6e2d67656e2f6769742e706e67)
+![I'm a beginner QA Engineer](https://sun9-35.userapi.com/impg/6NUn89bsb-AD5nnINomgwNTdtjRmzUFf2WmCSQ/ELH7eri87HU.jpg?size=604x252&quality=96&sign=748ca8ed4f2a360cf166bba3f5650acb&type=album)
 
 I like to learn something new, get interesting and useful skills.
 
